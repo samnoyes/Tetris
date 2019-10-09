@@ -1,5 +1,5 @@
 # Tetris
-Tetris game developed with another student during CSC 490 at Phillips Exeter Academy. App coded in Java utilizing Slick 2D and LWJGL libraries. [Click here for a video playthrough!](https://streamable.com/7i6w5)
+Tetris game developed with another student during CSC 490 at Phillips Exeter Academy. App coded in Java utilizing Slick 2D and LWJGL libraries. [Click here for a video playthrough!](https://streamable.com/fxcf8)
 
 ### Controls
 Left and right arrow keys move your shape across the screen.
